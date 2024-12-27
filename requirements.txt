@@ -1,0 +1,3 @@
+discord.py
+mistralai
+python-dotenv
